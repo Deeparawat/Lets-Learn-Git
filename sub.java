@@ -4,6 +4,7 @@ class sub{
         int b=10;
         System.out.println("sub is : "+ (a-b));
         
+        
     }
 
 }
